@@ -331,6 +331,12 @@ header{
     width: 100%;
 
 }
+.header2{
+	display: flex;
+    align-items: center;
+    width: 100%;
+
+}
 nav{
     width: 100%;
     justify-content:center;
@@ -390,3 +396,7 @@ nav a{
     padding-bottom: 6vm;
 }
 }
+
+/*services @media */
+
+@media (max-width: 800px ){
